@@ -1,0 +1,1 @@
+# Basic Serial Terminal with PyQt5
